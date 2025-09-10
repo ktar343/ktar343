@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello. My name's Кён Тэ Ким<br></li>I'm interested in computer science<br></li></li>Current, I'm basic, But I have large amount of passion about this</li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello. My name's Кён Тэ Ким who majored in Chemical Engineering <br></li>I'm interested in computer science<br></li></li>Current, I'm basic, But I have large amount of passion about this</li></li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
